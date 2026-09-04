@@ -1,0 +1,9 @@
+{
+  "project": "ERYXO Social",
+  "version": "1.0.0",
+  "architecture": "existing-backend-preserved",
+  "frontend": "client",
+  "backend": "server",
+  "shared": "shared",
+  "deployment": "render"
+}
